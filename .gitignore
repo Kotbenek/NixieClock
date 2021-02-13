@@ -45,3 +45,4 @@ dkms.conf
 
 # Other
 *.eep
+*.aws
