@@ -1,3 +1,8 @@
+# Moved to Codeberg
+
+This repository was moved to Codeberg:
+https://codeberg.org/Kotbenek/NixieClock
+
 # NixieClock
 Program for AVR ATmega32 microcontroller on [Nixie clock main board](https://github.com/Kotbenek/Nixie-clock-main-board)
 
